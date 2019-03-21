@@ -40,7 +40,8 @@ A detailed User Guide has been provided with instructions on how to use the flow
 Unfortunately, we cannot offer pull requests at this time or accept any improvements.
 
 ## Versioning
-BackupFlows has the following versions, starting with the most recent:<Module Version History>
+BackupFlows has the following versions, starting with the most recent:
+
 Version | Release | Functionality | Notes
 ------------ | ------------- | ----------- | -----------
 v1.0 | 21/02/2019 | BF-Backup-Flows-From-Config | Created 
