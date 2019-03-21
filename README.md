@@ -41,6 +41,14 @@ Unfortunately, we cannot offer pull requests at this time or accept any improvem
 
 ## Versioning
 BackupFlows has the following versions, starting with the most recent:<Module Version History>
+Version | Release | Functionality | Notes
+------------ | ------------- | ----------- | -----------
+v1.0 | 21/02/2019 | BF-Backup-Flows-From-Config | Created 
+v1.0 | 21/02/2019 | BF-Backup-Flows | Created
+v1.0 | 21/02/2019 | BF-GCAT-Get-Cortex-Authentication-Token | Created
+v1.0 | 21/02/2019 | BF-PPR-Process-PowerShell-Response | Created
+v1.0 | 21/02/2019 | BF-RMFFB-Remove-Missing-Flow-from-Backup | Created
+
 
 ## Licensing
 All functionality within this module is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
