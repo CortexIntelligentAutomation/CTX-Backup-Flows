@@ -7,6 +7,7 @@ The module allows users to configure Cortex to create automated backups of the s
     * [OCIs](#ocis)
     * [Files](#files)
     * [Other](#other)
+1) [Support and Warranty](#support-and-warranty)
 2) [Installation](#installation)
 3) [How to use](#how-to-use)
 4) [How you can contribute](#how-you-can-contribute)
@@ -29,6 +30,9 @@ The BackupFlows module requires the following files:
 ### Other
 The BackupFlows module has the following additional requirements which are explained in detail in the [Installation section](#Installation):<Other Requirements>
 * CTX-Email Module
+
+## Support and Warranty 
+This module is supplied as a template that you can amend and extend to fit your requirements, as such it is not supported as part of the Cortex Product suite under the Cortex product support agreement.
 
 ## Installation
 Details of the installation can be found in the [BackupFlows Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Backup-Flows/blob/master/CTX-Backup-Flows%20-%20Deployment%20Plan.pdf).
