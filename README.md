@@ -53,6 +53,9 @@ v1.0 | 21/03/2019 | BF-Backup-Flows | Created
 v1.0 | 21/03/2019 | BF-GCAT-Get-Cortex-Authentication-Token | Created
 v1.0 | 21/03/2019 | BF-PPR-Process-PowerShell-Response | Created
 v1.0 | 21/03/2019 | BF-RMFFB-Remove-Missing-Flow-from-Backup | Created
+v1.1 | 05/10/2021 | BF-Backup-Flows-From-Config | Updated 
+v1.1 | 05/10/2021 | BF-Backup-Flows | Updated
+v1.1 | 05/10/2021 | BF-GCAT-Get-Cortex-Authentication-Token | Updated
 
 
 ## Licensing
