@@ -1,0 +1,7 @@
+{
+  "File": "FlowBackup",
+  "Path": "C:\\Backup\\Flows",
+  "GatewayUser": "<domain name>\\<gateway username>",
+  "GatewayPass": "<gateway password>",
+  "Flows":"BF-Backup-Flows-From-Config, BF-Backup-Flows"
+}

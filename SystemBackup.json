@@ -1,0 +1,6 @@
+{
+  "File": "SystemBackup",
+  "Path": "C:\\Backup\\Flows",
+  "GatewayUser": "<domain name>\\<gateway username>",
+  "GatewayPass": "<gateway password>"
+}

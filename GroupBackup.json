@@ -1,0 +1,7 @@
+{
+  "File": "GroupBackup",
+  "Path": "C:\\Backup\\Flows",
+  "GatewayUser": "<domain name>\\<gateway username>",
+  "GatewayPass": "<gateway password>",
+  "Groups":"CTX-Backup-Flows, Ctx-Email"
+}

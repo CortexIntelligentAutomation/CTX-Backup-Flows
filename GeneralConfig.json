@@ -1,0 +1,8 @@
+{
+  "GatewaySourceHost": "https://<application server name>.<domain name>.com/gateway",
+  "SQLServer": "<database server name>.<domain name>.com",
+  "SQLUser": "<domain name>\\<database interface username>",
+  "SQLPass": "<database interface password>",
+  "BackupConfigPath": "C:\\Backup",
+  "RetentionPeriod": 30
+}
