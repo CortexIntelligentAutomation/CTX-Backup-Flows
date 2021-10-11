@@ -25,7 +25,7 @@ The  module requires the following Cortex OCIs:
 
 ### Files
 The BackupFlows module requires the following files:
-* [BackupFlows.studiopkg](https://github.com/CortexIntelligentAutomation/CTX-Backup-Flows/releases/download/v1.0/CTX-Backup-Flows.studiopkg)
+* [BackupFlows.studiopkg](https://github.com/CortexIntelligentAutomation/CTX-Backup-Flows/releases/download/v1.2/CTX-Backup-Flows.studiopkg)
 
 ### Other
 None.
