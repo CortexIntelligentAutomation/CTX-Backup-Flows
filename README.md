@@ -47,14 +47,14 @@ BackupFlows has the following versions, starting with the most recent:
 
 Version | Release | Functionality | Notes
 ------------ | ------------- | ----------- | -----------
+v1.2 | 05/10/2021 | BF-Backup-Flows-From-Config | Updated 
+v1.2 | 05/10/2021 | BF-Backup-Flows | Updated
+v1.2 | 05/10/2021 | BF-GCAT-Get-Cortex-Authentication-Token | Updated
 v1.0 | 21/03/2019 | BF-Backup-Flows-From-Config | Created 
 v1.0 | 21/03/2019 | BF-Backup-Flows | Created
 v1.0 | 21/03/2019 | BF-GCAT-Get-Cortex-Authentication-Token | Created
 v1.0 | 21/03/2019 | BF-PPR-Process-PowerShell-Response | Created
 v1.0 | 21/03/2019 | BF-RMFFB-Remove-Missing-Flow-from-Backup | Created
-v1.2 | 05/10/2021 | BF-Backup-Flows-From-Config | Updated 
-v1.2 | 05/10/2021 | BF-Backup-Flows | Updated
-v1.2 | 05/10/2021 | BF-GCAT-Get-Cortex-Authentication-Token | Updated
 
 
 ## Licensing
